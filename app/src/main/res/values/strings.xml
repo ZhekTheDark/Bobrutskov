@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Developers Life</string>
+    <string name="picture">Picture</string>
+    <string name="button_previous">Button previous</string>
+    <string name="button_next">Button next</string>
+    <string name="developers_life">Developers Life</string>
+</resources>
